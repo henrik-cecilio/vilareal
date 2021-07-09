@@ -1,7 +1,6 @@
 body {
   background: url(/img/bg.jpg);
   background-position: center;
-  background-size: contain;
 }
 .container {
   max-width: 300px;
