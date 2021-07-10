@@ -39,6 +39,7 @@ body {
   text-align: center;
   font-weight: bold;
   max-width: 500px;
+  margin: 0 auto;
 }
 .lista-links {
   /* width: 300px; */
