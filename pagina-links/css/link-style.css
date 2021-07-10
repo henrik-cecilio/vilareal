@@ -60,4 +60,7 @@ li:hover {
   .header {
     width: 300px;
   }
+  .links {
+    width: 300px;
+  }
 }
