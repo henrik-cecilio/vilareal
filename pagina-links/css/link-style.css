@@ -3,18 +3,19 @@ body {
   background-position: center;
 }
 .container {
-  max-width: 300px;
+  max-width: 940px;
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
-  /* width: 300px; */
 }
 .header {
-  margin: 40px auto 0;
+  width: 500px;
   border-radius: 10px 10px 0 0;
-  padding: 70px 100px;
+  padding-top: 70px;
   padding-bottom: 40px;
   background: whitesmoke;
+  margin: 40px auto 0;
 }
+
 .foto img {
   display: block;
   width: 100px;
@@ -53,4 +54,6 @@ a {
 }
 li:hover {
   background: #21325f5e;
+}
+@media only screen and (max-width: 400px) {
 }
